@@ -9,14 +9,14 @@ Proposals for Logos and Posters<br>
 Some Proposals done for
 https://indieweb.org/2017/Dortmund 🔥
 
-Contains totally unofficial CI / Logos for indieweb's building blocks
+Contains totally unofficial CI / Logos for upcoming indieweb's building blocks
 
 Is a Work in Progress
 
 ### TODOS
 
-- [] Microformats
-- [] IndieAuth
+- [ ] Microformats
+- [ ] IndieAuth
 
 ## Features
 
