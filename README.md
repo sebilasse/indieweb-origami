@@ -6,10 +6,10 @@ Proposals for Logos and Posters<br>
 
 # indieweb origami [wip]
 
-Some Proposals done for
+Some Proposals done for upcoming 
 https://indieweb.org/2017/Dortmund 🔥
 
-Contains totally unofficial CI / Logos for upcoming indieweb's building blocks
+Contains totally unofficial CI / Logos for indieweb's building blocks
 
 Is a Work in Progress
 
