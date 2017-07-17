@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="390px" height="400px" viewBox="0 0 390 400" enable-background="new 0 0 390 400" xml:space="preserve">
+<g id="microformat-logo">
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1.3281" y1="63.2861" x2="2.3281" y2="62.2861" gradientTransform="matrix(320 0 0 -320 -415 20321.5)">
+		<stop  offset="0.05" style="stop-color:#56A231"/>
+		<stop  offset="0.95" style="stop-color:#3B792D"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" stroke="#FFFFFF" stroke-width="20" d="M70,70h200c33.137,0,60,26.863,60,60v200
+		c0,33.137-26.863,60-60,60H70c-33.137,0-60-26.863-60-60V130C10,96.863,36.863,70,70,70z"/>
+	
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="1.5815" y1="62.9141" x2="2.5815" y2="61.9141" gradientTransform="matrix(245 0 0 -245 -267.5 15439)">
+		<stop  offset="0.05" style="stop-color:#72BD2D"/>
+		<stop  offset="0.95" style="stop-color:#56A231"/>
+	</linearGradient>
+	<path fill="url(#SVGID_2_)" stroke="#FFFFFF" stroke-width="20" d="M165,25h155c24.854,0,45,20.146,45,45v155
+		c0,24.854-20.146,45-45,45H165c-24.854,0-45-20.146-45-45V70C120,45.146,140.146,25,165,25z"/>
+	
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="2.1567" y1="62.0723" x2="3.1567" y2="61.0723" gradientTransform="matrix(160 0 0 -160 -125 9941.5)">
+		<stop  offset="0.05" style="stop-color:#99CC33"/>
+		<stop  offset="0.95" style="stop-color:#72BD2D"/>
+	</linearGradient>
+	<path fill="url(#SVGID_3_)" stroke="#FFFFFF" stroke-width="20" d="M240,10h120c11.045,0,20,8.954,20,20v120
+		c0,11.046-8.955,20-20,20H240c-11.046,0-20-8.954-20-20V30C220,18.954,228.954,10,240,10z"/>
+</g>
+</svg>
