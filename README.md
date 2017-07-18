@@ -8,7 +8,7 @@ Proposals for Logos and Posters<br>
 
 Some Proposals done for upcoming 
 https://indieweb.org/2017/Dortmund 🔥<br>
-Contains totally unofficial CI / Logos for indieweb's building blocks
+Contains totally unofficial CI / Logos and placards for indieweb's building blocks
 
 Is a Work in Progress
 
