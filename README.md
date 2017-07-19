@@ -12,22 +12,17 @@ Contains totally unofficial CI / Logos and placards for indieweb's building bloc
 
 Is a Work in Progress
 
-### TODOS
-
-- [ ] Microformats
-- [ ] IndieAuth
-
 ## Features
 
-TODO: Add sections on features of this package
+A user attends an IndieWebCamp for the first time. He want's a quick overview of the IndieWeb `principles` and `building blocks`. The Posters help to get a general idea.
+Potential users visiting locations might become aware of the IndieWeb ideas and visit the URLs.
 
 ## How do I use this package?
 
-TODO: Add appropriate usage and instruction guidelines
-### To run:
-```
-open the files
-```
+Print it. Hang it.
+Regarding font and image sizes :
+The files in /Poster are optimized for printout in A2 (420 x 594 mm) or A3 (297 x 420 mm)
+The t.b.a files in /Flyer are optimized for printout in A4 (210 x 297 mm) or A5 (148 x 210 mm)
 
 ## How do I contribute?
 
