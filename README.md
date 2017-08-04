@@ -23,7 +23,7 @@ Print it. Hang it.
 Regarding font and image sizes :
 The files in /Poster are optimized for printout in 
 - A2 (420 x 594 mm)
-- A3 (297 x 420 mm)
+- **A3 (297 x 420 mm)**
 - A4 (210 x 297 mm)
 
 The t.b.a files in /Flyer are optimized for printout in A4 (210 x 297 mm) or A5 (148 x 210 mm)
