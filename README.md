@@ -4,11 +4,11 @@
 Proposals for Logos and Posters<br>
 [![-](https://raw.githubusercontent.com/redaktor/style/master/assets/readme/lineBlue.png)](#)<br>
 
-# indieweb origami [wip]
+# indieweb origami
 
 Some Proposals done for upcoming 
 https://indieweb.org/2017/Dortmund 🔥<br>
-Contains totally unofficial CI / Logos and placards for indieweb's building blocks
+Contains totally unofficial CI / Logos and **placards** for indieweb's building blocks
 
 Is a Work in Progress
 
@@ -19,7 +19,8 @@ Potential users visiting locations might become aware of the IndieWeb ideas and 
 
 ## How do I use this package?
 
-Print it. Hang it.
+Print it. Hang it on every wall.
+
 Regarding font and image sizes :
 The files in /Poster are optimized for printout in 
 - A2 (420 x 594 mm)
