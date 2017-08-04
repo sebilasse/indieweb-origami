@@ -12,7 +12,7 @@ Contains totally unofficial CI / Logos and **placards** for indieweb's building 
 
 Is a Work in Progress
 
-## Features
+## Story
 
 A user attends an IndieWebCamp for the first time. He want's a quick overview of the IndieWeb `principles` and `building blocks`. The Posters help to get a general idea.
 Potential users visiting locations might become aware of the IndieWeb ideas and visit the URLs.
