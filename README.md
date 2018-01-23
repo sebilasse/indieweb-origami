@@ -1,7 +1,7 @@
 
 <img src="https://raw.githubusercontent.com/redaktor/style/master/assets/readme/logo.png" width="36" height="auto" align="left">
 
-# indieweb origami<br>
+**indieweb origami**<br>
 Logos and Posters<br>
 [![-](https://raw.githubusercontent.com/redaktor/style/master/assets/readme/lineBlue.png)](#)<br>
 
