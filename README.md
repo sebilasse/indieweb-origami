@@ -12,12 +12,12 @@ Is a Work in Progress
 ## Story
 
 A user attends an [IndieWeb Event](http://indieweb.org/events/) or similar for the first time. <br>
-Maybe he want's a quick overview of the [`IndieWeb principles`](https://indieweb.org/principles) and `building blocks`. 
+Maybe he want's a quick overview of the [`IndieWeb principles`](https://indieweb.org/principles) and `building blocks`. <br>
 The Posters can help to get a general idea.
 
 ## How do I use this package?
 
-Print it. Hang it on every wall.
+Print it. Hang it on every wall.<br>
 Potential users visiting locations might become aware of the IndieWeb ideas and visit the URLs.
 
 Regarding font and image sizes :
