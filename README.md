@@ -11,8 +11,8 @@ Is a Work in Progress
 
 ## Story
 
-A user attends an [IndieWeb Event](http://indieweb.org/events/) or similar for the first time. 
-Maybe he want's a quick overview of the IndieWeb [`principles`](https://indieweb.org/principles) and `building blocks`. 
+A user attends an [IndieWeb Event](http://indieweb.org/events/) or similar for the first time. <br>
+Maybe he want's a quick overview of the [`IndieWeb principles`](https://indieweb.org/principles) and `building blocks`. 
 The Posters can help to get a general idea.
 
 ## How do I use this package?
